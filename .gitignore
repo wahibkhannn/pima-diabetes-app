@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+instance/
+.env
+
+# Logs and caches
+*.log
+*.csv
+
+# VSCode settings (optional)
+.vscode/
+
+# General
+.DS_Store
+*.swp
+*.bak
+*.tmp
