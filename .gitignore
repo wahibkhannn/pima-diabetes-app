@@ -18,3 +18,4 @@ instance/
 *.swp
 *.bak
 *.tmp
+.history/
