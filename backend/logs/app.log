@@ -1,0 +1,162 @@
+2025-06-28 01:39:51,602 - 59 - INFO - Model loaded successfully
+2025-06-28 01:39:51,602 - 60 - ERROR - Something went wrong
+2025-06-28 01:39:51,650 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-28 01:39:51,650 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-28 01:39:51,653 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:39:56,044 - 59 - INFO - Model loaded successfully
+2025-06-28 01:39:56,044 - 60 - ERROR - Something went wrong
+2025-06-28 01:39:56,056 - 97 - WARNING -  * Debugger is active!
+2025-06-28 01:39:56,063 - 97 - INFO -  * Debugger PIN: 216-217-947
+2025-06-28 01:39:57,390 - 97 - INFO - 127.0.0.1 - - [28/Jun/2025 01:39:57] "GET / HTTP/1.1" 200 -
+2025-06-28 01:40:48,994 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\app.py', reloading
+2025-06-28 01:40:57,903 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:41:05,516 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:05,516 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:05,534 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-28 01:41:05,534 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-28 01:41:05,537 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:41:09,991 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:09,991 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:10,000 - 97 - WARNING -  * Debugger is active!
+2025-06-28 01:41:10,004 - 97 - INFO -  * Debugger PIN: 216-217-947
+2025-06-28 01:41:24,536 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:24,536 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:24,560 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-28 01:41:24,561 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-28 01:41:24,564 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:41:26,927 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:26,927 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:26,940 - 97 - WARNING -  * Debugger is active!
+2025-06-28 01:41:26,942 - 97 - INFO -  * Debugger PIN: 221-294-070
+2025-06-28 01:41:39,082 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:39,082 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:39,110 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-28 01:41:39,110 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-28 01:41:39,110 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:41:43,027 - 56 - INFO - Model loaded successfully
+2025-06-28 01:41:43,027 - 57 - ERROR - Something went wrong
+2025-06-28 01:41:43,043 - 97 - WARNING -  * Debugger is active!
+2025-06-28 01:41:43,043 - 97 - INFO -  * Debugger PIN: 216-217-947
+2025-06-28 01:42:30,661 - 97 - INFO - 127.0.0.1 - - [28/Jun/2025 01:42:30] "GET / HTTP/1.1" 200 -
+2025-06-28 01:47:13,403 - 97 - INFO -  * Detected change in 'c:\\Users\\NCB\\pima\\app.py', reloading
+2025-06-28 01:47:13,450 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\app.py', reloading
+2025-06-28 01:47:13,667 - 97 - INFO -  * Restarting with stat
+2025-06-28 01:47:16,376 - 97 - WARNING -  * Debugger is active!
+2025-06-28 01:47:16,380 - 97 - INFO -  * Debugger PIN: 221-294-070
+2025-06-29 12:10:58,523 - 97 - INFO -  * Restarting with stat
+2025-06-29 12:51:26,893 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-29 12:51:26,893 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-29 12:51:26,896 - 97 - INFO -  * Restarting with stat
+2025-06-29 12:51:29,153 - 97 - WARNING -  * Debugger is active!
+2025-06-29 12:51:29,163 - 97 - INFO -  * Debugger PIN: 221-294-070
+2025-06-29 12:52:19,503 - 97 - INFO - 127.0.0.1 - - [29/Jun/2025 12:52:19] "GET / HTTP/1.1" 200 -
+2025-06-29 12:52:19,546 - 97 - INFO - 127.0.0.1 - - [29/Jun/2025 12:52:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-29 12:52:28,390 - 97 - INFO - 127.0.0.1 - - [29/Jun/2025 12:52:28] "[33mGET /predict HTTP/1.1[0m" 404 -
+2025-06-29 13:41:13,499 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\app.py', reloading
+2025-06-29 13:41:13,508 - 97 - INFO -  * Detected change in 'c:\\Users\\NCB\\pima\\app.py', reloading
+2025-06-29 13:41:13,897 - 97 - INFO -  * Restarting with stat
+2025-06-29 13:41:14,419 - 97 - INFO -  * Restarting with stat
+2025-06-29 13:41:18,159 - 97 - WARNING -  * Debugger is active!
+2025-06-29 13:41:18,161 - 97 - INFO -  * Debugger PIN: 221-294-070
+2025-06-29 13:41:18,162 - 97 - INFO -  * Debugger PIN: 221-294-070
+2025-06-29 13:57:05,815 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-29 13:57:05,817 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-29 13:57:05,821 - 97 - INFO -  * Restarting with stat
+2025-06-29 13:57:08,297 - 97 - WARNING -  * Debugger is active!
+2025-06-29 13:57:08,307 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-29 13:57:30,998 - 97 - INFO - 127.0.0.1 - - [29/Jun/2025 13:57:30] "GET / HTTP/1.1" 200 -
+2025-06-30 17:52:52,616 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 17:52:52,616 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 17:52:52,622 - 97 - INFO -  * Restarting with stat
+2025-06-30 17:52:55,068 - 97 - WARNING -  * Debugger is active!
+2025-06-30 17:52:55,076 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 17:53:04,184 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 17:53:04] "GET / HTTP/1.1" 200 -
+2025-06-30 17:53:26,669 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 17:53:26] "[33mOPTIONS /predict HTTP/1.1[0m" 404 -
+2025-06-30 17:53:53,441 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 17:53:53] "[33mOPTIONS /predict HTTP/1.1[0m" 404 -
+2025-06-30 17:55:16,148 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\routes\\predict.py', reloading
+2025-06-30 17:55:16,548 - 97 - INFO -  * Restarting with stat
+2025-06-30 17:55:35,857 - 97 - WARNING -  * Debugger is active!
+2025-06-30 17:55:35,862 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 17:56:00,671 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 17:56:00] "[33mPOST /predict HTTP/1.1[0m" 404 -
+2025-06-30 17:58:33,959 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\routes\\predict.py', reloading
+2025-06-30 17:58:34,288 - 97 - INFO -  * Restarting with stat
+2025-06-30 17:58:37,165 - 97 - WARNING -  * Debugger is active!
+2025-06-30 17:58:37,166 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 17:58:40,253 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\routes\\predict.py', reloading
+2025-06-30 17:58:40,607 - 97 - INFO -  * Restarting with stat
+2025-06-30 17:58:43,233 - 97 - WARNING -  * Debugger is active!
+2025-06-30 17:58:43,235 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 17:58:57,048 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 17:58:57] "[33mPOST /predict HTTP/1.1[0m" 404 -
+2025-06-30 18:01:32,268 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:01:32,589 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:01:36,275 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:01:36,276 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:01:39,375 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:01:39,727 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:13:29,716 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 18:13:29,720 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 18:13:29,723 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:13:32,447 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:13:32,447 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:13:46,561 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:13:46] "GET / HTTP/1.1" 200 -
+2025-06-30 18:13:57,556 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:13:57] "POST /predict HTTP/1.1" 200 -
+2025-06-30 18:14:28,978 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:14:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:15:57,365 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:15:57] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:22:10,465 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:22:10] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:24:16,887 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:17,856 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:24:22,344 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:24:22,349 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:24:23,437 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:23,892 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:24:27,116 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:24:27,120 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:24:35,337 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:35,656 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:24:38,706 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:24:38,713 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:24:41,776 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:42,100 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:24:45,840 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:24:45,840 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:24:50,973 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:51,418 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:24:54,521 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:24:54,528 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:24:57,620 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\app.py', reloading
+2025-06-30 18:24:57,978 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:25:00,894 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:25:00,895 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:25:36,283 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 18:25:36,283 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 18:25:36,283 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:25:38,844 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:25:38,844 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:25:45,627 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:25:45] "GET / HTTP/1.1" 200 -
+2025-06-30 18:26:13,767 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:26:13] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:26:14,026 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:26:14] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-06-30 18:28:47,278 - 97 - INFO -  * Detected change in 'C:\\Users\\NCB\\pima\\backend\\config.py', reloading
+2025-06-30 18:28:47,587 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:28:50,710 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:28:50,715 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:29:09,786 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:09] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:29:10,042 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:29:10] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-06-30 18:31:42,954 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 18:31:42,954 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 18:31:42,957 - 97 - INFO -  * Restarting with stat
+2025-06-30 18:31:45,465 - 97 - WARNING -  * Debugger is active!
+2025-06-30 18:31:45,467 - 97 - INFO -  * Debugger PIN: 102-437-695
+2025-06-30 18:32:47,589 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:32:47] "GET / HTTP/1.1" 200 -
+2025-06-30 18:32:47,696 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:32:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 18:33:49,206 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:33:49] "OPTIONS /predict HTTP/1.1" 200 -
+2025-06-30 18:33:49,525 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 18:33:49] "POST /predict HTTP/1.1" 200 -
