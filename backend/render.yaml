@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: Diabetes-Predictor
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    pythonVersion: "3.12.6"
+    # envVars:
+    #   - key: DATABASE_URL
+    #     value: postgres://username:password@hostname:port/dbname
+    autoDeploy: true

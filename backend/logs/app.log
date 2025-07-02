@@ -173,3 +173,11 @@
 2025-06-30 21:09:32,422 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 21:09:32] "POST /predict HTTP/1.1" 200 -
 2025-06-30 22:18:20,165 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 22:18:20] "OPTIONS /predict HTTP/1.1" 200 -
 2025-06-30 22:18:20,451 - 97 - INFO - 127.0.0.1 - - [30/Jun/2025 22:18:20] "POST /predict HTTP/1.1" 200 -
+2025-07-02 17:17:23,046 - 97 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-02 17:17:23,046 - 97 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 17:17:23,051 - 97 - INFO -  * Restarting with stat
+2025-07-02 17:17:25,232 - 97 - WARNING -  * Debugger is active!
+2025-07-02 17:17:25,242 - 97 - INFO -  * Debugger PIN: 307-944-170
+2025-07-02 17:18:06,285 - 97 - INFO - 127.0.0.1 - - [02/Jul/2025 17:18:06] "GET / HTTP/1.1" 200 -
+2025-07-02 17:18:06,412 - 97 - INFO - 127.0.0.1 - - [02/Jul/2025 17:18:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
