@@ -31,7 +31,7 @@ const DiabetesPredictor = () => {
       const cleanedData = Object.fromEntries(
         Object.entries(formData).map(([key, val]) => [key, parseFloat(val)])
       );
-      const response = await axios.post('http://localhost:5000/predict', cleanedData);
+      const response = await axios.post('https://diabetes-predictor-q4dz.onrender.com/predict', cleanedData);
       setPrediction(response.data.prediction);
     } catch (err) {
       setError(err.response?.data?.error || 'Prediction failed.');
